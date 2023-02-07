@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+# altschool-class-of-vue
